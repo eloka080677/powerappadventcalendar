@@ -25,23 +25,23 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 ## Customization
 You have several options available to customize the advent calendar PowerApp. To start with the customization process, you must open the app in edit mode using [PowerApps Studio](https://make.powerapps.com):
 
-![PowerApps Studio](/Readme/Customization/Customization%20Step%21.png)
+![PowerApps Studio](/Readme/Customization/Customization%20Step%201.png)
 
 ### I want to change the introduction text on the left side:
 
 To change the introduction text, you must click on "CalendarIntroLabel" (child of "CalendarIntroContainer") in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the text in the "Text" field.
 
-![PowerApps Studio](/Readme/Customization/Customization%20Text%20Step%21.png)
+![PowerApps Studio](/Readme/Customization/Customization%20Text%20Step%201.png)
 
 ### I want to change the logo or background image:
 
 To change the logo, you must click on "CompanyLogo" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the image in the "Image" field by uploading a new image and selecting it.
 
-![PowerApps Studio](/Readme/Customization/Customization%20Logo%20Step%21.png)
+![PowerApps Studio](/Readme/Customization/Customization%20Logo%20Step%201.png)
 
 To change the background image, you must click on "CalendarScreen" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the background image in the "Background image" field by uploading a new image and selecting it.
 
-![PowerApps Studio](/Readme/Customization/Customization%20Background%20Step%21.png)
+![PowerApps Studio](/Readme/Customization/Customization%20Background%20Step%201.png)
 
 ### I want to change the content of the advent calendar:
 
