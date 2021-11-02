@@ -82,5 +82,10 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 ![PowerApps Studio](/Readme/Customization/Customization%20Step%203.png)
 
 ## Content packs
+| Name | Description | Link |
+|---|---|---|
+| Default | The default content pack for the advent calendar. |   |
+| Teams | A content pack specific with tips&tricks for Microsoft Teams. |   |
+| Power Platform | A content pack specific with tips&tricks for the Microsoft Power Platform. |   |
 
 ## Customize the content
