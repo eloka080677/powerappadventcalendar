@@ -3,19 +3,23 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 
 **Content**
 1. [Technical Requirements](#Technical-Requirements)
-2. [Installation](#Installation)
-3. [Customization](#Customization)
+2. [Download](#Download)
+3. [Installation](#Installation)
+4. [Customization](#Customization)
     1. [Introduction text](#I-want-to-change-the-introduction-text-on-the-left-side)
     2. [Logo or background image](#I-want-to-change-the-logo-or-background-image)
     3. [Change content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar)
     4. [Republishing](#Republishing-the-app) 
-4. [Content packs](#Content-packs)
-5. [Customize the content](#Customize-the-content)
+5. [Content packs](#Content-packs)
+6. [Customize the content](#Customize-the-content)
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
 * Default, Microsoft Teams or dedicated environment
 * Microsoft Excel (optional)
+
+## Download
+The app can be downloaded [here](/App/AdventCalendar.zip)
 
 ## Installation
 1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
