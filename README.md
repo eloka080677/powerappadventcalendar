@@ -3,6 +3,7 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
+* Default, Microsoft Teams or dedicated environment
 * Microsoft Excel (optional)
 
 ## Installation
@@ -27,14 +28,14 @@ You have several options available to customize the advent calendar PowerApp. To
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Step%201.png)
 
-### I want to change the introduction text on the left side:
+**Information**: After customizing the PowerApp, you must [republish](#Republishing the app) your app again.
 
+### I want to change the introduction text on the left side:
 To change the introduction text, you must click on "CalendarIntroLabel" (child of "CalendarIntroContainer") in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the text in the "Text" field.
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Text%20Step%201.png)
 
 ### I want to change the logo or background image:
-
 To change the logo, you must click on "CompanyLogo" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the image in the "Image" field by uploading a new image and selecting it.
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Logo%20Step%201.png)
@@ -44,4 +45,27 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 ![PowerApps Studio](/Readme/Customization/Customization%20Background%20Step%201.png)
 
 ### I want to change the content of the advent calendar:
+1. Open the data section on the left side and remove the existing "Content" data source by clicking on "..." and then "Remove":
 
+![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%201.png)
+
+2. Add your customized content by clicking on "Add data" and searching for/selecting the "Import from Excel" data source:
+
+![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%202.png)
+
+3. Select your customized Excel spreadsheet and click on "Content" in the "Choose a table" panel. Click on "Connect" to import the Excel file:
+
+![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%203.png)
+
+4. To refresh your data in the PowerApp, click on "Tree View", select "App" by clicking on "..." next to it, and "Run OnStart":
+
+![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%204.png)
+
+### Republishing the app
+1. Open the file menu by clicking on "File" in the menu:
+
+![PowerApps Studio](/Readme/Customization/Customization%20Step%202.png)
+
+2. In the save menu click on "Publish":
+
+![PowerApps Studio](/Readme/Customization/Customization%20Step%203.png)
