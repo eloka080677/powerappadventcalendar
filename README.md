@@ -5,10 +5,12 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 1. [Technical Requirements](#Technical-Requirements)
 2. [Installation](#Installation)
 3. [Customization](#Customization)
-  1. [I want to change the introduction text on the left side](#I-want-to-change-the-introduction-text-on-the-left-side)
-  2. [I want to change the logo or background image](#I-want-to-change-the-logo-or-background-image)
-  3. [I want to change the content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar)
-  4. [Republishing the app](#Republishing-the-app) 
+    1. [Introduction text](#I-want-to-change-the-introduction-text-on-the-left-side)
+    2. [Logo or background image](#I-want-to-change-the-logo-or-background-image)
+    3. [Content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar)
+    4. [Republishing](#Republishing-the-app) 
+4. [Content packs](#Content-packs)
+5. [Customize the content](#Customize-the-content)
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
@@ -58,7 +60,7 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%201.png)
 
-2. Add your customized content by clicking on "Add data" and searching for/selecting the "Import from Excel" data source:
+2. Add your [customized](#Customize-the-content) or the [pre-defined](#Content-packs) content by clicking on "Add data" and searching for/selecting the "Import from Excel" data source:
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%202.png)
 
@@ -78,3 +80,7 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 2. In the save menu click on "Publish":
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Step%203.png)
+
+## Content packs
+
+## Customize the content
