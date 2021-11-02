@@ -93,7 +93,7 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 | Power Platform | A content pack specific with tips&tricks for the Microsoft Power Platform. |   |
 
 ## Customize the content
-If you want to customize the advent calendar and import your content, you can start with downloading and editing the ![template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar).
+If you want to customize the advent calendar and import your content, you can start with downloading and editing the [template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar).
 
 ![Excel](/Readme/Customization/Customization%20Content%20Step%205.png)
 
