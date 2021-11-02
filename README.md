@@ -19,7 +19,7 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 * Microsoft Excel (optional)
 
 ## Download
-The app can be downloaded [here](/App/AdventCalendar.zip)
+The app can be downloaded [here](/App/AdventCalendar.zip).
 
 ## Installation
 1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
