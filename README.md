@@ -6,7 +6,7 @@ Welcome to the Advent Calendar Power App. This Power App template provides an ad
 * Microsoft Excel (optional)
 
 ## Installation
-1. Open the Power Apps Studio ([PowerApps Studio](https://make.powerapps.com)) and select your default/desired environment:
+1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
 
 ![PowerApps Studio](/Readme/Installation/Installation%20Step%201.png)
 
