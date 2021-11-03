@@ -13,7 +13,7 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
     5. [Republishing](#Republishing-the-app) 
 5. [Content packs](#Content-packs)
 6. [Customize the content](#Customize-the-content)
-7. [Pin the PowerApp in the sidebar of Teams](/Readme/Installation/pintoteams.md)
+7. [Pin the Advent Calendar app in Teams for all users](/Readme/Installation/pintoteams.md)
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
