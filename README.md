@@ -17,9 +17,12 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
 * Default, Microsoft Teams or dedicated environment
 * Microsoft Excel (optional)
+* Screen resolution of 1366x768 pixels (minimum)
 
 ## Download
 The app can be downloaded [here](/App/AdventCalendar.zip).
+
+![GitHub](/Readme/Installation/Installation%20Download.png)
 
 ## Installation
 1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
@@ -76,12 +79,15 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%204.png)
 
+### I want to change the PowerApp icon, name, description, or background color (during start up)
+You can change the icon in the app described [here](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/set-name-tile).
+
 ### Republishing the app
 1. Open the file menu by clicking on "File" in the menu:
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Step%202.png)
 
-2. In the save menu click on "Publish":
+2. In the save menu click on "Save" and then "Publish":
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Step%203.png)
 
