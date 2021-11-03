@@ -110,6 +110,8 @@ If you want to customize the advent calendar and import your content, you can st
 | Title | The title for the entry. |
 | Day | The day for the entry. It only can be opend during/after the day. |
 | Type | The advent calendar can show different types of content. The types "Image", "Video", and "PDF" will open the content in the specific player/reader, and "URL" will redirect the user directly to the source by opening a new browser tab. |
-| Content | The content shown after opening the entry. |
-| Link (optional) | This optional attribute shows a link below the content, and the user can get additional information. |
+| Content | The content shown after opening the entry (URL). |
+| Link (optional) | This optional attribute shows a link below the content, and the user can get additional information (URL). |
 | Index | The index of the entry. E.g., the first entry is "1", the 2nd entry in the 3rd line is "14". |
+
+**Information:** Excel is formatting links differently as PowerApps is processing it. To ensure a working solution, make sure that you only include text values instead of links.
