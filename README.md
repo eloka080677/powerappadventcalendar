@@ -9,7 +9,7 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
     1. [Introduction text](#I-want-to-change-the-introduction-text-on-the-left-side)
     2. [Logo or background image](#I-want-to-change-the-logo-or-background-image)
     3. [Change content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar)
-    4. [Change name, description, icon, or background color](#I-want-to-change-the-PowerApp-icon,-name,-description,-or-background-color-(during-startup))
+    4. [Change name, description, icon, or background color](#i-want-to-change-the-powerapp-icon-name-description-or-background-color-during-startup)
     5. [Republishing](#Republishing-the-app) 
 5. [Content packs](#Content-packs)
 6. [Customize the content](#Customize-the-content)
