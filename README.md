@@ -9,9 +9,11 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
     1. [Introduction text](#I-want-to-change-the-introduction-text-on-the-left-side)
     2. [Logo or background image](#I-want-to-change-the-logo-or-background-image)
     3. [Change content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar)
-    4. [Republishing](#Republishing-the-app) 
+    4. [Change name, description, icon, or background color](#i-want-to-change-the-powerapp-icon-name-description-or-background-color-during-startup)
+    5. [Republishing](#Republishing-the-app) 
 5. [Content packs](#Content-packs)
 6. [Customize the content](#Customize-the-content)
+7. [Pin the Advent Calendar app in Teams for all users](/Readme/Installation/pintoteams.md)
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
@@ -79,7 +81,7 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%204.png)
 
-### I want to change the PowerApp icon, name, description, or background color (during start up)
+### I want to change the PowerApp icon, name, description, or background color (during startup)
 You can change the icon in the app described [here](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/set-name-tile).
 
 ### Republishing the app
@@ -108,6 +110,8 @@ If you want to customize the advent calendar and import your content, you can st
 | Title | The title for the entry. |
 | Day | The day for the entry. It only can be opend during/after the day. |
 | Type | The advent calendar can show different types of content. The types "Image", "Video", and "PDF" will open the content in the specific player/reader, and "URL" will redirect the user directly to the source by opening a new browser tab. |
-| Content | The content shown after opening the entry. |
-| Link (optional) | This optional attribute shows a link below the content, and the user can get additional information. |
+| Content | The content shown after opening the entry (URL). |
+| Link (optional) | This optional attribute shows a link below the content, and the user can get additional information (URL). |
 | Index | The index of the entry. E.g., the first entry is "1", the 2nd entry in the 3rd line is "14". |
+
+**Information:** Excel is formatting links differently as PowerApps is processing it. To ensure a working solution, make sure that you only include text values instead of links.
