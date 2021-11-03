@@ -98,8 +98,7 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 |---|---|---|
 | Default | The default content pack for the advent calendar. |   |
 | Teams | A content pack specific with tips&tricks for Microsoft Teams. |   |
-| Power Platform | A content pack specific with tips&tricks for the Microsoft Power Platform. | [Advent Calendar with Power Platform Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Advent%20Calendar.xlsx)
-[Power Platform Content Pack Only](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Content%20Pack.xlsx) |
+| Power Platform | A content pack specific with tips&tricks for the Microsoft Power Platform. | [Advent Calendar with Power Platform Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Advent%20Calendar.xlsx) or [Power Platform Content Pack Only](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Content%20Pack.xlsx) |
 
 ## Customize the content
 If you want to customize the advent calendar and import your content, you can start with downloading and editing the [template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar).
