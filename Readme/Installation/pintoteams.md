@@ -14,7 +14,7 @@
 
 7.	Next, you will move to the Teams Admin Center. If you are not an Teams Admin, forward the ZIP-file you just downloaded to your Teams Admin and provide him/her with the deployment steps below.
  
-8.	Open the Teams [Admin Center](https://admin.teams.microsoft.com)
+8.	Open the [Teams Admin Center](https://admin.teams.microsoft.com)
 
 9.	Navigate to the tab "Teams apps" and select the "Manage apps" tab.
 
