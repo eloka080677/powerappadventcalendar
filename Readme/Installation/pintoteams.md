@@ -71,7 +71,7 @@ Click on "Save".
  
     3. Now your policy should look like this. Click on "Save".
     
-    ![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2019.png) 
+   ![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2019.png) 
  
 14.	Now, move on to the "Setup policies" tab in the main navigation bar of the Teams Admin Center.
 
