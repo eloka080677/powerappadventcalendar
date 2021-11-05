@@ -22,7 +22,10 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
 * Screen resolution of 1366x768 pixels (minimum)
 
 ## Download
-The app can be downloaded [here](/App/AdventCalendar.zip).
+There are multiple versions of the advent calendar app with content packs pre-installed:
+- [Advent Calendar Teams Edition (German)](/App/AdventCalendarTeamsDE.zip).
+- [Advent Calendar Teams Edition (English)](/App/AdventCalendarTeamsDE.zip).
+- [Advent Calendar Power Platform Edition](/App/AdventCalendarPowerPlatform.zip).
 
 ![GitHub](/Readme/Installation/Installation%20Download.png)
 
