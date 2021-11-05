@@ -99,8 +99,7 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ## Content packs
 | Name | Description | Link |
 |---|---|---|
-| Default | The default content pack for the advent calendar. |   |
-| Teams | A content pack specific with life hacks for Microsoft Teams. | [Teams (German) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20Deutsch.xlsx) or [Teams (English) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20English.xlsx) or  |
+| Teams | A content pack specific with life hacks for Microsoft Teams. | [Teams (German) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20Deutsch.xlsx) or [Teams (English) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20English.xlsx) |
 | Power Platform | A content pack specific with life hacks for the Microsoft Power Platform. | [Power Platform Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Content%20Pack.xlsx) |
 
 ## Customize the content
