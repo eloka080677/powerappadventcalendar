@@ -79,20 +79,38 @@ Click on "Save".
 
 15.	Select the policy for the users you want to pin the Advent Calendar app in Teams (e.g. Global):
 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2021.png) 
+
 16.	Go to the "Installed apps" section and click on "+ Add apps":
+
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2022.png) 
 
 17.	Again, search for the name of the advent calendar app and click on "Add".
 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2023.png) 
+
 18.	Now, click on add again at the bottom of the menu.
+
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2024.png) 
 
 19.	Next, move to the "Pinned apps" section. Here, again click on "+ Add apps".
 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2025.png) 
+
 20.	Again, search for your advent calendar app (or the name given to your advent calendar app) and click on "Add".
+
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2026.png) 
 
 21.	Click on "Add" again at the bottom of the menu.
 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2027.png) 
+
 22.	Optionally, you are able to change the location of the pinned app in the list of pinned apps by moving it up or down.
 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2028.png) 
+
 23.	Finally, after you are done scroll to the very bottom of this page and click on "Save".
+
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2029.png) 
 
 The change in pinning of an app in Teams can take a couple of minutes to hours to take effect for all users.
