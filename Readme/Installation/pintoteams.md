@@ -2,6 +2,8 @@
  
 1.	Click on the arrow (back) to get back to the main menu.
  
+![Pin to Teams](/Readme/Configuration/Pin%20to%20Teams/Pin%20to%20Teams%20Step%201.png) 
+ 
 2.	Again, click on back to land at the overview of all your PowerApps.
 
 3.	Click on the three dots (…) next to the Advent Calendar app.
