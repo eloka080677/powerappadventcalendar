@@ -59,7 +59,7 @@
 13.	Select the policy for the users you want to add the Advent Calendar app in Teams and ensure, that under the section "Custom apps" you have either the setting "Allow all apps" or "Allow specific apps and block others".
 Click on "Save".
 
-![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%216.png) 
+![Pin to Teams](/Readme/Customization/Pin%20to%20Teams/Pin%20to%20Teams%20Step%2016.png) 
 
     1. If you selected "Allow specific apps and block all others" under the "Custom apps" section, make sure to add the Advent calendar app to the list of allowed custom apps.
 
