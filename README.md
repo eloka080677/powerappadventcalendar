@@ -24,7 +24,7 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
 ## Download
 There are multiple versions of the advent calendar app with content packs pre-installed:
 - [Advent Calendar Teams Edition (German)](/App/AdventCalendarTeamsDE.zip).
-- [Advent Calendar Teams Edition (English)](/App/AdventCalendarTeamsDE.zip).
+- [Advent Calendar Teams Edition (English)](/App/AdventCalendarTeamsEN.zip).
 - [Advent Calendar Power Platform Edition](/App/AdventCalendarPowerPlatform.zip).
 
 ![GitHub](/Readme/Installation/Installation%20Download.png)
