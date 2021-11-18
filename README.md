@@ -22,7 +22,10 @@ Welcome to the Advent Calendar PowerApp. This PowerApp template provides an adju
 * Screen resolution of 1366x768 pixels (minimum)
 
 ## Download
-The app can be downloaded [here](/App/AdventCalendar.zip).
+There are multiple versions of the advent calendar app with content packs pre-installed:
+- [Advent Calendar Teams Edition (German)](/App/AdventCalendarTeamsDE.zip).
+- [Advent Calendar Teams Edition (English)](/App/AdventCalendarTeamsEN.zip).
+- [Advent Calendar Power Platform Edition](/App/AdventCalendarPowerPlatform.zip).
 
 ![GitHub](/Readme/Installation/Installation%20Download.png)
 
@@ -96,9 +99,8 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ## Content packs
 | Name | Description | Link |
 |---|---|---|
-| Default | The default content pack for the advent calendar. |   |
-| Teams | A content pack specific with life hacks for Microsoft Teams. |   |
-| Power Platform | A content pack specific with life hacks for the Microsoft Power Platform. | [Advent Calendar with Power Platform Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Advent%20Calendar.zip) or [Power Platform Content Pack Only](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Content%20Pack.xlsx) |
+| Teams | A content pack specific with life hacks for Microsoft Teams. | [Teams (German) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20Deutsch.xlsx) or [Teams (English) Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Teams/Content%20Pack%20English.xlsx) |
+| Power Platform | A content pack specific with life hacks for the Microsoft Power Platform. | [Power Platform Content Pack](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Power%20Platform/Content%20Pack.xlsx) |
 
 ## Customize the content
 If you want to customize the advent calendar and import your content, you can start with downloading and editing the [template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the advent calendar](#I-want-to-change-the-content-of-the-advent-calendar).
@@ -115,3 +117,6 @@ If you want to customize the advent calendar and import your content, you can st
 | Index | The index of the entry. E.g., the first entry is "1", the 2nd entry in the 3rd line is "14". |
 
 **Information:** Excel is formatting links differently as PowerApps is processing it. To ensure a working solution, make sure that you only include text values instead of links.
+
+# Pin the Advent Calendar app in Teams for all users
+How to [pin the Advent Calendar app in Teams for all users](/Readme/Installation/pintoteams.md).
